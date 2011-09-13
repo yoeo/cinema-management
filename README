@@ -1,0 +1,8 @@
+Pour démarrer l'application en tant qu'utilisateur, exécutez le fichier:
+	Demarrer-Cinema-Utilisateur.bat
+
+Pour démarrer l'application en tant qu'administrateur, exécutez le fichier:
+	Demarrer-Cinema-Administrateur.bat
+
+Pour recompiler tout le projet avec ANT, exécutez la commande:
+	ant dist

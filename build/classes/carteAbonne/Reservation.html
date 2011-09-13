@@ -1,0 +1,25 @@
+<html xmlns:concordion="http://www.concordion.org/2007/concordion">
+    <link href="../concordion.css" rel="stylesheet" type="text/css" />    
+    <body>
+      <h1>resrvations pour plein tarif</h1>
+
+        <p>
+		Apres avoir demare le logiciel en mode utilisateur,
+		on peut reseerver infiniment pour un utilisateur 
+                qui pays en plein tarif.
+        </p>
+
+        <div class="example">
+
+            <h3>tous les reservations</h3>
+
+            <p>
+			Le nombre de reservations est :
+                        
+                        <b concordion:assertEquals="reservationPleinTarif()">quatre reservations!</b>
+            </p>
+
+        </div>
+  
+    </body>
+</html>

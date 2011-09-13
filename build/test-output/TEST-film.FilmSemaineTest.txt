@@ -1,0 +1,9 @@
+Testsuite: film.FilmSemaineTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,068 sec
+------------- Standard Output ---------------
+/home/ydeo/Documents/Eclipse/Cinema/build/concordion-output/film/FilmSemaine.html
+Successes: 1, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: testProcessSpecification took 0,066 sec

@@ -1,0 +1,8 @@
+Testsuite: dao.TestCarteAbonne
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 1,258 sec
+
+Testcase: testSaveCarteAbonne took 0,986 sec
+Testcase: testAllCarteAbonne took 0,033 sec
+Testcase: testGetCarteAbonne took 0,056 sec
+Testcase: testUpdateCarteAbonne took 0,071 sec
+Testcase: testRemoveCarteAbonne took 0,054 sec

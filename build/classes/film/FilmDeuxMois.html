@@ -1,0 +1,23 @@
+<html xmlns:concordion="http://www.concordion.org/2007/concordion">
+    <link href="../concordion.css" rel="stylesheet" type="text/css" />
+    <body>
+        <h1>Les films de deux mois</h1>
+
+        <p>
+		Apres avoir demare le logiciel en mode utilisateur,
+		on peut afficher tous les filme de deux mois.
+        </p>
+
+        <div class="example">
+
+            <h3>Toutes les films</h3>
+
+            <p>
+			Le nombre de films de deux mois est :
+                <b concordion:assertEquals="nbrFilmsDeuxMois()">trois films!</b>
+            </p>
+
+        </div>
+
+    </body>
+</html>

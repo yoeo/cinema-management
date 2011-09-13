@@ -1,0 +1,9 @@
+Testsuite: dao.TestFilm
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0,912 sec
+
+Testcase: testSaveFilm took 0,714 sec
+Testcase: testAllFilm took 0,051 sec
+Testcase: testWeekFilm took 0,075 sec
+Testcase: testGetFilm took 0,023 sec
+Testcase: testUpdateFilm took 0,018 sec
+Testcase: testRemoveFilm took 0,017 sec

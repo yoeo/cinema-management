@@ -1,0 +1,8 @@
+Testsuite: dao.TestSalle
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0,849 sec
+
+Testcase: testSaveSalle took 0,662 sec
+Testcase: testAllSalle took 0,035 sec
+Testcase: testGetSalle took 0,047 sec
+Testcase: testUpdateSalle took 0,059 sec
+Testcase: testRemoveSalle took 0,033 sec

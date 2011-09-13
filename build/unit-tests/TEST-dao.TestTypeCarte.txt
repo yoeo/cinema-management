@@ -1,0 +1,8 @@
+Testsuite: dao.TestTypeCarte
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0,881 sec
+
+Testcase: testSaveTypeCarte took 0,701 sec
+Testcase: testAllTypeCarte took 0,043 sec
+Testcase: testGetTypeCarte took 0,055 sec
+Testcase: testUpdateTypeCarte took 0,037 sec
+Testcase: testRemoveTypeCarte took 0,028 sec

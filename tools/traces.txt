@@ -1,0 +1,14 @@
+TRACE
+
+18-01-11
+Wydad - Lynda
+- Base de l'IHM administrateur
+- Intégration des fonctions DAO dans l'UI
+- Programation du login admin
+
+Khalil - Déogracias
+- Base de l'IHM Utilisateur
+- Affichage dynamique des films
+
+Mohammed
+- Ecriture des tests d'intégration des films

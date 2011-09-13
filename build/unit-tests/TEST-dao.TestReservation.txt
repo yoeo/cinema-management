@@ -1,0 +1,8 @@
+Testsuite: dao.TestReservation
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0,948 sec
+
+Testcase: testSaveReservation took 0,731 sec
+Testcase: testAllReservation took 0,077 sec
+Testcase: testGetReservation took 0,075 sec
+Testcase: testUpdateReservation took 0,029 sec
+Testcase: testRemoveReservation took 0,019 sec

@@ -1,0 +1,8 @@
+Testsuite: dao.TestSeance
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0,868 sec
+
+Testcase: testSaveSeance took 0,676 sec
+Testcase: testAllSeance took 0,033 sec
+Testcase: testGetSeance took 0,04 sec
+Testcase: testUpdateSeance took 0,054 sec
+Testcase: testRemoveSeance took 0,053 sec

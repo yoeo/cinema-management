@@ -1,0 +1,9 @@
+Testsuite: carteAbonne.ReservationTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1,176 sec
+------------- Standard Output ---------------
+/home/ydeo/Documents/Eclipse/Cinema/build/concordion-output/carteAbonne/Reservation.html
+Successes: 1, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: testProcessSpecification took 1,154 sec
